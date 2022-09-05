@@ -1,0 +1,7 @@
+Test of flat shot calibration
+Flat shots are thrown at level 2.0 thru 7.0
+intro_audio
+,SHOT_TYPE,LEVEL,ROTARY_TYPE
+,FLAT,7.0,F5
+,FLAT,7.0,B5
+,FLAT,7.0,F5

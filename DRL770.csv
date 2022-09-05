@@ -1,0 +1,6 @@
+Test elevation servoing
+2 balls are thrown low, then high
+intro_audio
+,SHOT_TYPE,ROTARY_TYPE,SPEED,SPIN,ELEVATION
+,CUSTOM,CENTER,35,500,45.0
+,CUSTOM,CENTER,45,500,13.0

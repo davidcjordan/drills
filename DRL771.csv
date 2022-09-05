@@ -1,0 +1,7 @@
+Test of servo times
+Various length of moves are made to test servo time of each axis
+intro_audio
+,SHOT_TYPE,ROTARY_TYPE,SPEED,SPIN,ELEVATION
+,CUSTOM,F1,40,0,20.0
+,CUSTOM,F2,30,0,21.0
+,CUSTOM,F1,40,0,20.0

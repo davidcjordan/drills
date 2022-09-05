@@ -1,0 +1,14 @@
+"Positive load_drill test"
+"all 5 drill steps (balls) should be valid and empty/none/repeat should be ignored"
+539RUMB.WAV
+,SHOT_TYPE,ROTARY_TYPE,DELAY,LEVEL,SCORE_METHOD,COMMENT,SPEED,ELEVATION,SPIN
+Empty level,TOPSPIN,F5
+Empty delay,LOOP,CENTER,,6,LOB
+Empty score,RAND_GROUND,B1,3.6,2.5
+Just shot & rot,NONE,RANDFH
+No spin,CUSTOM,B3,3.2,6,GROUND,,44,32,
+
+Empty row
+Empty row,
+none,NONE
+repeat,REPEAT
