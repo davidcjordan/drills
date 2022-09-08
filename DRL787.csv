@@ -1,6 +1,6 @@
 !calibration: CHIP 
 17 balls are thrown to CENTER, speed=44, spin= -2000 with varying elev angles around 17 degrees
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,3,44,-2000,20.00
 ,CUSTOM,CENTER,3,44,-2000,19.75

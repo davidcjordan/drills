@@ -1,6 +1,6 @@
 !calibration: LOB
 10 balls are thrown CENTER with 0 SPIN at various lob speeds
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,B3,3,35.0,0,46
 ,CUSTOM,F3,3,35.5,0,46

@@ -1,6 +1,6 @@
 Test of CHIP shot calibration
 CHIP shots are thrown at level 2.0 thru 7.0
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,CHIP,2.0,F2,GROUND
 ,CHIP,2.5,B2,GROUND

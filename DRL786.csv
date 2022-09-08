@@ -1,6 +1,6 @@
 !calibration: LOOP 
 17 balls are thrown to CENTER, speed=55, spin=2300 with elevation varying between 12 and 16 degrees
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,3,54,2000,16.00
 ,CUSTOM,CENTER,3,54,2000,15.50

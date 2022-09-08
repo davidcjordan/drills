@@ -1,6 +1,6 @@
 Test of PASSING shot calibration
 PASSING shots are thrown at level 2.0 thru 7.0
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,PASS,2.0,F2,VOLLEY
 ,PASS,2.5,B2,VOLLEY

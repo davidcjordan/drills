@@ -1,6 +1,6 @@
 !calibration: ELEVATOR 
 10 balls are thrown with elevator target starting at .3 to 2.3V
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,3,35.0,0,30.0
 ,CUSTOM,CENTER,3,35.0,0,30.0

@@ -1,6 +1,6 @@
 !calibration: PASS 
 17 balls are thrown to CENTER, speed=54, spin= 1666 with varying elev angles around 12 degrees
-intro_audio
+163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,3,54,1666,15.00
 ,CUSTOM,CENTER,3,54,1666,14.75
