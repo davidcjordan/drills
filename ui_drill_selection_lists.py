@@ -2,7 +2,7 @@ workout_list = [1]
 
 default_recents_drill_list = [1, 2, 5, 6, 8, 9, 11, 22, 26, 27]
 
-line_drill_dict = {"1-line":[30,31,32,33,34,35,36,38], "2-line":[30,31,32,33,34,35,36,38], "3-line":[70,71,72], "mini":[80,81,82,83,84,85,86]}
+line_drill_dict = {"1-line":[30,31,32,33,34,35,36,38], "2-line":[50,51,52,53,54,55,56,57,58,59,60], "3-line":[70,71,72], "mini":[80,81,82,83,84,85,86]}
 
 movement_drill_list = [8,13,22]
 situational_drill_list = [5,6,23]

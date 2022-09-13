@@ -1,0 +1,10 @@
+"2-line Passing shot"
+"Start at baseline: ad court and deuce Each line gets 2 topspin balls then a slice.  Keep the first two balls deep then go for a passing shot on the third ball. "
+269HERE.WAV
+,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+,TOPSPIN,F5,1.0,NOT_SCORED,SAME,,,,
+,TOPSPIN,B5,2.0,NOT_SCORED,SAME,,,,
+,TOPSPIN,F1,1.0,NOT_SCORED,SAME,,,,
+,TOPSPIN,B1,1.9,NOT_SCORED,SAME,,,,
+,CHIP,F5,1.0,NOT_SCORED,SAME,155CROS.WAV,,,
+,CHIP,B5,1.0,NOT_SCORED,SAME,,,,

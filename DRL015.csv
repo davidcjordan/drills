@@ -1,5 +1,5 @@
-"Groundstroke: Heavy Topspin"
-"30 random rated Heavy Topspins at level "
+"Groundstroke: Heavy Topspin: L4"
+"30 random Heavy Topspins at 4.0"
 
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
 ,LOOP,RAND,4.0,GROUND,SAME,,,,

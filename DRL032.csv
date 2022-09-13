@@ -1,0 +1,13 @@
+"1-line attack drill"
+"Line up behind center of baseline. First player in line goes to the right, next player goes left.  Each player gets a G, A, V and O. Boomer feeds both sides. After the Overhead, then circle outside court."
+
+,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+,TOPSPIN,F2,1.0,NOT_SCORED,SAME,,,,
+,TOPSPIN,B2,1.8,NOT_SCORED,SAME,,,,
+,CUSTOM,F3,1.0,NOT_SCORED,EASY,074APPR.WAV,37,20.0,1400
+,CUSTOM,B3,2.2,NOT_SCORED,EASY,,37,20.0,1400
+,CUSTOM,F4,1.0,NOT_SCORED,SAME,696VOLL.WAV,42,15.0,0
+,CUSTOM,B4,1.0,NOT_SCORED,SAME,,42,15.0,0
+,LOB,F2,1.0,NOT_SCORED,SAME,457OVER.WAV,,,
+,LOB,B2,5.5,NOT_SCORED,SAME,,,,
+,NONE,B2,1.0,NOT_SCORED,SAME,269HERE.WAV,,,

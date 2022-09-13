@@ -1,5 +1,5 @@
 "Net: Groover"
-"To improve net play.  Boomer throws a passing shot to the FH, then to the BH, then an overhead.  This pattern repeats for 15 balls.  Boomer gives a target, "line" or "cross". "
+"To improve net play.  Boomer throws a passing shot to the FH, then to the BH, then an overhead. This pattern repeats for 15 balls. Boomer gives a target, 'line' or 'cross'."
 730WAV1.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
 ,PASS,F2,2.2,NOT_SCORED,SAME,698VSCR.WAV,,,
