@@ -1,5 +1,5 @@
-"2-line Kid & Adult"
-"Kids get F3 2.5 level Flat groundstrokes; Adults get B3 3.5 level Flat groundstrokes"
+"2-line Ground: L2.5 & L3.5"
+"1 line gets F3 2.5 level Flat groundstrokes; the other gets B3 3.5 level Flat groundstrokes"
 
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
 ,FLAT,F4,2.0,NOT_SCORED,2.5,,,,
