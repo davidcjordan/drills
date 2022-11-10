@@ -1,5 +1,5 @@
 "Negative drill_load test"
-"should have no good steps/balls; 19 invalid steps"
+"should have no good steps/balls; 24 invalid steps"
 539RUMB.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,LEVEL,SCORE_METHOD,COMMENT,SPEED,ELEVATION,SPIN
 No custom columns,CUSTOM,F3,4,EASY,NOT_SCORED,,,,
@@ -23,3 +23,7 @@ High spin,CUSTOM,B3,3.2,6,GROUND,,44,32,3100
 No elevation,CUSTOM,B3,3.2,6,GROUND,,44,,2000
 Lo elevation,CUSTOM,B3,3.2,6,GROUND,,44,0.5,2000
 High elevation,CUSTOM,B3,3.2,6,GROUND,,44,47,2000
+Empty shot_type,,
+,,
+,
+
