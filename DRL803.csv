@@ -1,0 +1,15 @@
+"Test all level flat shots"
+""
+730WAV1.WAV
+,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+,FLAT,F4,,,2.0,,,,
+,FLAT,B4,,,2.5,,,,
+,FLAT,F4,,,3.0,,,,
+,FLAT,B4,,,3.5,,,,
+,FLAT,F3,,,4.0,,,,
+,FLAT,B3,,,4.5,,,,
+,FLAT,F2,,,5.0,,,,
+,FLAT,B2,,,5.5,,,,
+,FLAT,F1,,,6.0,,,,
+,FLAT,B1,,,6.5,,,,
+,FLAT,CENTER,,,7.0,,,,

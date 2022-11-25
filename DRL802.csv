@@ -1,0 +1,15 @@
+"Test all level drop shots"
+""
+730WAV1.WAV
+,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+,DROP,F5,,,2.0,,,,
+,DROP,B5,,,2.5,,,,
+,DROP,F5,,,3.0,,,,
+,DROP,B5,,,3.5,,,,
+,DROP,F5,,,4.0,,,,
+,DROP,B5,,,4.5,,,,
+,DROP,F5,,,5.0,,,,
+,DROP,B5,,,5.5,,,,
+,DROP,F5,,,6.0,,,,
+,DROP,B5,,,6.5,,,,
+,DROP,F5,,,7.0,,,,
