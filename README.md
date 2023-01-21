@@ -6,20 +6,21 @@ Drill Number Ranges:
 * 401-699: Custom, site specific drills, not stored in this repository
 * 761-780: Preset Calibration test drills
 * 781-800: Preset Calibration drills
-* 901-950: Preset Beep drills
-* 951-979: TBD Custom Beep drills
+* 801-812: Test servoing for each ball type
+* 901-912: Preset Beep drills
+* 912-979: TBD Custom Beep drills
 * 980-999: drills used in regression testing
 
 Drills other than 401-699 are stored in this repository
 
-Preset beep drills follow this convention, where the range of 5 is determined by the difficulty (VeryEasy..VeryHard)
-* 901-905: mini-tennis 
-* 906-910: volley
-* 911-915 flat
-* 916-920 loop
-* 921-925 chip
-* 926-930 topspin
-* 931-935 random
+Preset beep drills:
+* 901-905: mini-tennis: very easy, easy, medium, hard, very hard
+* 906: volley
+* 907: topspin
+* 908: flat
+* 909: loop
+* 910: chip
+* 911: random
 
 The drill_load.h file has the following drill range defines used by both the launcher code and the UI:
 
