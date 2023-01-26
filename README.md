@@ -21,6 +21,7 @@ Preset beep drills:
 * 909: loop
 * 910: chip
 * 911: random
+* 912: net
 
 The drill_load.h file has the following drill range defines used by both the launcher code and the UI:
 
