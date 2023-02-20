@@ -1,5 +1,5 @@
-Test of Rotary calibration at high and low speeds
-Drop shots are thrown at level 2.0 thru 7.0
+Test of Rotary calibration at low speed
+Drop shots are thrown at level 7.0 to F5, CENTER and B5
 163CWHL.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,DROP,7.0,CENTER
