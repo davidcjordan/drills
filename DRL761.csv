@@ -1,8 +1,9 @@
 Test of serve calibration
-Serves are thrown at level 2.0 thru 7.0
+Serves are thrown at level 2.0 thru 4.0
 163CWHL.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,SERVE,2.0,CENTER
 ,SERVE,2.5,CENTER
 ,SERVE,3.0,CENTER
+,SERVE,3.5,CENTER
 ,SERVE,3.5,CENTER
