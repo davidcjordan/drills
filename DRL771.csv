@@ -2,6 +2,6 @@ Test of servo times
 Various length of moves are made to test servo time of each axis
 163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,SPEED,SPIN,ELEVATION
-,CUSTOM,F1,40,0,20.0
-,CUSTOM,F2,30,0,21.0
-,CUSTOM,F1,40,0,20.0
+,CUSTOM,F2,40,0,20.0
+,CUSTOM,CENTER,40,0,22.0
+,CUSTOM,B2,40,0,20.0
