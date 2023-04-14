@@ -2,27 +2,27 @@
 "should have no good steps/balls; 24 invalid steps"
 539RUMB.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,LEVEL,SCORE_METHOD,COMMENT,SPEED,ELEVATION,SPIN
-No custom columns,CUSTOM,F3,4,EASY,NOT_SCORED,,,,
-No elevation in custom ,CUSTOM,F3,4,EASY,NOT_SCORED,,33,,
+No custom columns,CUSTOM,F6,4,EASY,NOT_SCORED,,,,
+No elevation in custom ,CUSTOM,F6,4,EASY,NOT_SCORED,,33,,
 Empty rotary,CHIP,,,,,,,,
-Bad shot,BAD_SHOT,F2,3.3,4,GROUND,,,,
-Negative level,TOPSPIN,B2,2.6,-1,GROUND,,,,
-Low level,TOPSPIN,F2,2.2,1,GROUND,,,,
-High level,TOPSPIN,B2,2.7,8,GROUND,,,,
+Bad shot,BAD_SHOT,F4,3.3,4,GROUND,,,,
+Negative level,TOPSPIN,B4,2.6,-1,GROUND,,,,
+Low level,TOPSPIN,F4,2.2,1,GROUND,,,,
+High level,TOPSPIN,B4,2.7,8,GROUND,,,,
 Bad rotary,CUSTOM,BAD_ROT,3.3,4,GROUND,,43,34,1700
-Bad score,CHIP,F2,2.6,4,BAD_SCORE,,,,
-Negative delay,CHIP,B2,-2,4,GROUND,,,,
-low delay,CHIP,F2,0.5,4,GROUND,,,,
-High delay,CUSTOM,F3,31,4,GROUND,,44,33,2000
-No speed,CUSTOM,B3,3,4,GROUND,,2000,,28
-Negative speed,CUSTOM,F3,3.4,4.5,GROUND,,-1,24,-2000
-Low speed,CUSTOM,B3,3.3,5,GROUND,,19,30,2000
-High speed,CUSTOM,F3,3.2,5.5,GROUND,,81,31,2000
-Low spin,CUSTOM,B3,3.2,6,GROUND,,44,32,-3100
-High spin,CUSTOM,B3,3.2,6,GROUND,,44,32,3100
-No elevation,CUSTOM,B3,3.2,6,GROUND,,44,,2000
-Lo elevation,CUSTOM,B3,3.2,6,GROUND,,44,0.5,2000
-High elevation,CUSTOM,B3,3.2,6,GROUND,,44,47,2000
+Bad score,CHIP,F4,2.6,4,BAD_SCORE,,,,
+Negative delay,CHIP,B4,-2,4,GROUND,,,,
+low delay,CHIP,F4,0.5,4,GROUND,,,,
+High delay,CUSTOM,F6,31,4,GROUND,,44,33,2000
+No speed,CUSTOM,B6,3,4,GROUND,,2000,,28
+Negative speed,CUSTOM,F6,3.4,4.5,GROUND,,-1,24,-2000
+Low speed,CUSTOM,B6,3.3,5,GROUND,,19,30,2000
+High speed,CUSTOM,F6,3.2,5.5,GROUND,,81,31,2000
+Low spin,CUSTOM,B6,3.2,6,GROUND,,44,32,-3100
+High spin,CUSTOM,B6,3.2,6,GROUND,,44,32,3100
+No elevation,CUSTOM,B6,3.2,6,GROUND,,44,,2000
+Lo elevation,CUSTOM,B6,3.2,6,GROUND,,44,0.5,2000
+High elevation,CUSTOM,B6,3.2,6,GROUND,,44,47,2000
 Empty shot_type,,
 ,,
 ,
