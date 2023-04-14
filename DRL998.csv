@@ -1,5 +1,5 @@
 "Positive load_drill test"
-"all 5 drill steps (balls) should be valid and empty/none/repeat should be ignored"
+"The first 5 drill steps (balls) should be valid and empty/none/repeat rows should be skipped.  Test of description longer than the buffer. Test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test"
 539RUMB.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,LEVEL,SCORE_METHOD,COMMENT,SPEED,ELEVATION,SPIN
 Empty level,TOPSPIN,F5
