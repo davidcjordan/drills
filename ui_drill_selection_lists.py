@@ -1,4 +1,4 @@
-workout_list = [1]
+workout_list = [1,3]
 
 default_recents_drill_list = [1, 2, 5, 6, 8, 9, 11, 22, 26, 27]
 

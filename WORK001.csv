@@ -1,9 +1,9 @@
-"2 Net & 2 Volley drills"
-"Runs the following drills: (1) Net: Groover; (2) Net: Hard; (3) Volley: Groover; (4) Volley: Swing" 
-audio.wav
-,DRILL,MINUTES
-,11,0
-,27,0
-,11,0
+"Boomer Demo"
+"Runs drills: <to be added>" 
+8xxBoomerDemoIntro.WAV
+,DRILL,MINUTES,PRE_COMMENT,POST_COMMENT
+,11,0,,
+,0,0,777love.WAV
+,0,0,778all.WAV
+,27,0,,778all.WAV
 ,25,0
-
