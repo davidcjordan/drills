@@ -1,9 +1,9 @@
 "Boomer Demo"
-"Runs drills: <to be added>" 
-8xxBoomerDemoIntro.WAV
-,DRILL,MINUTES,PRE_COMMENT,POST_COMMENT
-,11,0,,
-,0,0,777love.WAV
+"Runs drills: <Dave to enumerate>" 
+780softwareBug.WAV
+,DRILL,MINUTES,PRE_COMMENT
+,11,0,777love.WAV
 ,0,0,778all.WAV
-,27,0,,778all.WAV
+,0,0,774scoreIs.WAV
+,27,0
 ,25,0
