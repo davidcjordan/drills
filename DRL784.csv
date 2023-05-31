@@ -1,5 +1,5 @@
 !calibration: DROP
-9 balls are thrown to F5 and B5 with varying speeds, SPIN= -1333 ELEV=35.0
+9 balls are thrown to F5 and B5 with varying speeds, SPIN= -1333 ELEV=24.0
 163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,F13,3,34.0,-1333,35.0

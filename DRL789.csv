@@ -1,5 +1,5 @@
 !calibration: TOPSPIN 
-balls are thrown to CENTER, speed=54, spin= 1666 with varying elev angles
+balls are thrown to CENTER, speed=54, spin= 1666 with varying elev angles to calculate "top_angle"
 163CWHL.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,3,54,1666,25.0

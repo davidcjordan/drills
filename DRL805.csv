@@ -2,6 +2,18 @@
 ""
 730WAV1.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+<<<<<<< HEAD
+,CHIP,F4,,,7.0,,,,
+,CHIP,B4,,,6.5,,,,
+,CHIP,F4,,,6.0,,,,
+,CHIP,B4,,,7.0,,,,
+,CHIP,F3,,,6.0,,,,
+,CHIP,B3,,,7.0,,,,
+,CHIP,F2,,,6.5,,,,
+,CHIP,B2,,,6.5,,,,
+,CHIP,F1,,,7.0,,,,
+,CHIP,B1,,,6.5,,,,
+=======
 ,CHIP,F8,,,2.0,,,,
 ,CHIP,B8,,,2.5,,,,
 ,CHIP,F8,,,3.0,,,,
@@ -12,4 +24,5 @@
 ,CHIP,B4,,,5.5,,,,
 ,CHIP,F2,,,6.0,,,,
 ,CHIP,B2,,,6.5,,,,
+>>>>>>> 912ff534af0b9792ff5126475eec1c06cbad77a3
 ,CHIP,CENTER,,,7.0,,,,
