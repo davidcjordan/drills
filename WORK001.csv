@@ -1,9 +1,13 @@
-"Boomer Demo"
-"Runs drills: <Dave to enumerate>" 
-780softwareBug.WAV
-,DRILL,MINUTES,PRE_COMMENT
-,11,0,777love.WAV
-,0,0,778all.WAV
-,0,0,774scoreIs.WAV
-,27,0
-,25,0
+"Boomer demo"
+"Runs the following drills: Mini tennis, easier ground, harder ground, easier net, harder net, suicide, 2-line volley, beep" 
+801Boomer_demo_intro.wav
+,DRILL,MINUTES
+,820,0
+,821,0
+,822,0
+,823,0
+,824,0
+,825,0
+,907,0
+,826,0
+
