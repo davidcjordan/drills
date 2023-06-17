@@ -1,19 +1,24 @@
 "Boomer demo"
-"Runs the following drills: Mini tennis, easier ground, harder ground, easier net, harder net, suicide, 2-line volley, beep" 
-801Boomer_demo_intro.WAV
+"Shows all Boomer features" 
+824Boomer_short_intro.WAV
 ,DRILL,MINUTES,PRE_COMMENT
-,827,0,
-,828,0,804Mini_tennis_intro.WAV
-,821,0,805Easy_random_ground_intro.WAV
-,822,0,806Hard_random_ground_intro.WAV
+,834,0,852Gonna_throw.WAV
+,835,0,
+,837,0,
+,838,0,
+,839,0,
+,840,0,
+,841,0,
+,842,0,
+,0,0,878I_have_eleven_levels.WAV
+,821,0,838Easy_ground_short_intro.WAV
+,822,0,843Hard_ground_short_intro.WAV
+,0,0,
+,0,0,880The_rest_of_drills_will_be_at_level.WAV
 ,829,0,819Easy_random_volley.WAV
-,830,0,820Hard_random_volley.WAV
 ,831,0,821Easy_random_overhead.WAV
-,832,0,822Hard_random_overhead.WAV
-,823,0,807Easy_net_intro.WAV
-,824,0,808Hard_net_intro.WAV
+,823,0,845Easy_net_intro.WAV
 ,825,0,803Suicide_drill_intro.WAV
-,826,0,803Suicide_drill_intro.WAV
 ,833,0,823Two_line_volley_intro.WAV
 ,907,0,809Beep_intro.WAV
 
