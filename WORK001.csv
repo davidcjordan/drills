@@ -2,8 +2,7 @@
 "Shows all Boomer features" 
 824Boomer_short_intro.WAV
 ,DRILL,MINUTES,PRE_COMMENT
-,834,0,852Gonna_throw.WAV
-,835,0,
+,835,0,852Gonna_throw.WAV
 ,837,0,
 ,838,0,
 ,839,0,
@@ -13,12 +12,11 @@
 ,0,0,878I_have_eleven_levels.WAV
 ,821,0,838Easy_ground_short_intro.WAV
 ,822,0,843Hard_ground_short_intro.WAV
-,0,0,
 ,0,0,880The_rest_of_drills_will_be_at_level.WAV
 ,829,0,819Easy_random_volley.WAV
 ,831,0,821Easy_random_overhead.WAV
 ,823,0,845Easy_net_intro.WAV
-,825,0,803Suicide_drill_intro.WAV
+,825,0,894Transition_drill_short_intro.WAV
 ,833,0,823Two_line_volley_intro.WAV
 ,907,0,809Beep_intro.WAV
 
