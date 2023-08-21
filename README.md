@@ -7,6 +7,8 @@ Drill Number Ranges:
 * 761-780: Preset Calibration test drills
 * 781-800: Preset Calibration drills
 * 801-812: Test servoing for each ball type
+* 813-820: more testing of servoing
+* 821-850: Drills used for demo workout (WORK001)
 * 901-912: Preset Beep drills
 * 912-979: TBD Custom Beep drills
 * 980-999: drills used in regression testing
