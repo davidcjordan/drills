@@ -4,7 +4,6 @@ This repository has 3 file types:
 * workouts in CSV format (WORKxxx.csv).  001 is the Boomer demonstration showing the capabilities using custom short drills.
 * ui_drill_selection_lists.py: read by the python user interface code to define lists of drills and workouts.  These lists define which drills will be shown per category.
 
-
 # Drill numbering convention
 
 * 1-399: factory programmed drills; not to be modified by the user
@@ -35,4 +34,5 @@ The drill_load.h file has the following drill range defines used by both the lau
 #define BEEP_DRILL_NUMBER_START
 #define BEEP_DRILL_NUMBER_END
 #define THROWER_CALIB_DRILL_NUMBER_START
-``````
+```
+
