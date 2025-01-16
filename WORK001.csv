@@ -2,12 +2,14 @@
 "Shows all Boomer features" 
 898Boomer_short_intro_one.WAV
 ,DRILL,MINUTES,PRE_COMMENT
-,835,0,899Boomer_short_intro_two.WAV
+,0,0,899Boomer_short_intro_two.WAV
+,0,0,913Please_grab_your.WAV
+,0,0,852Gonna_throw.WAV
+,835,0,
 ,837,0,
 ,838,0,
 ,839,0,
 ,840,0,
-,841,0,
 ,842,0,
 ,0,0,912I_know_it_is_intimidating.WAV
 ,821,0,838Easy_ground_short_intro.WAV
