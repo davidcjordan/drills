@@ -1,6 +1,6 @@
 !calibration: CHIP 
 balls are thrown to CENTER, speed=44, spin= -2000 with varying elev angles around 17 degrees
-163CWHL.WAV
+009CalibrateChip.WAV
 ,SHOT_TYPE,ROTARY_TYPE,SCORE,DELAY,SPEED,SPIN,ELEVATION
 ,CUSTOM,CENTER,VOLLEY,4,44,-2000,14
 ,CUSTOM,CENTER,VOLLEY,4,44,-2000,15

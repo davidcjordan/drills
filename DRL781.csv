@@ -1,6 +1,6 @@
 !calibration: ROTARY
 9 balls are thrown fast down the middle to calibrate "center_fast"
-163CWHL.WAV
+004CalibrateRotary.WAV
 ,SHOT_TYPE,ROTARY_TYPE,SCORE,SPEED,SPIN,ELEVATION
 ,CUSTOM,F4,VOLLEY,50,500,19
 ,CUSTOM,F3,VOLLEY,50,500,19
