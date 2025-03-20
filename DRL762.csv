@@ -1,6 +1,6 @@
 Test of drop calibration
 Drop shots are thrown at level 7.0
-163CWHL.WAV
+006CalibrateDrop.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,DROP,7.0,F5
 ,DROP,7.0,B5

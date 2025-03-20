@@ -1,6 +1,6 @@
 Test of PASSING shot calibration
 PASSING shots are thrown at level 7.0
-163CWHL.WAV
+012CalibratePass.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,PASS,6.0,F13
 ,PASS,6.5,B13

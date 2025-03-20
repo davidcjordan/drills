@@ -1,6 +1,6 @@
-Test of rotary "center_fast" and flat shots calibration
+Test of rotary "center_fast"
 Flat shots are thrown at level 7.0
-163CWHL.WAV
+004CalibrateRotary.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,FLAT,7.0,CENTER
 ,FLAT,7.0,CENTER

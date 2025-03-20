@@ -1,6 +1,6 @@
 Test of loop (formerly HEAVY) shot calibration
 loop shots are thrown at level 7.0
-163CWHL.WAV
+008CalibrateLoop.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,LOOP,7.0,CENTER,GROUND
 ,LOOP,7.0,CENTER,GROUND
