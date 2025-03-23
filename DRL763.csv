@@ -1,5 +1,5 @@
-Test of flat shot calibration
-Flat shots are thrown at level 7.0
+Set the height of FLAT throws
+
 007CalibrateFlat.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,FLAT,7.0,CENTER

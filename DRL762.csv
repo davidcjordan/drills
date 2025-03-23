@@ -1,5 +1,5 @@
-Test of drop calibration
-Drop shots are thrown at level 7.0
+Set the height and speed of DROP throws
+
 006CalibrateDrop.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,DROP,7.0,F5

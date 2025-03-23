@@ -1,5 +1,5 @@
-Test of rotary "center_fast"
-Flat shots are thrown at level 7.0
+Set rotary angle so the ball gets thrown down the center line
+
 004CalibrateRotary.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,FLAT,7.0,CENTER

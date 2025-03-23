@@ -1,5 +1,5 @@
-Test of CHIP shot calibration
-CHIP shots are thrown at level 7.0
+Set the height of CHIP throws
+
 009CalibrateChip.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,CHIP,7.0,CENTER,GROUND

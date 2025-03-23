@@ -1,5 +1,5 @@
-Test of serve calibration
-Serves are thrown at level 3.5
+Set the height of SERVE throws
+
 005CalibrateServe.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
 ,SERVE,3.5,CENTER

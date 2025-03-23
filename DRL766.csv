@@ -1,5 +1,5 @@
-Test of LOB calibration
-LOB shots are thrown at level 7.0
+Set the height and speed for LOB throws
+
 010CalibrateChip.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,LOB,7.0,CENTER,GROUND

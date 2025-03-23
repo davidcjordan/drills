@@ -1,5 +1,5 @@
-Test of TOPSPIN shot calibration
-TOPSPIN shots are thrown at level 7.0
+Set the height for TOPSPIN throws
+
 011CalibrateTopspin.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,TOPSPIN,7.0,CENTER,GROUND
