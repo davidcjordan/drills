@@ -1,0 +1,13 @@
+Test of Rotary adjustment at low speed (not used by user)
+Drop shots are thrown at level 7.0 to B13, CENTER and F13
+163CWHL.WAV
+,SHOT_TYPE,LEVEL,ROTARY_TYPE
+,DROP,7.0,B13
+,DROP,7.0,B13
+,DROP,7.0,B13
+,DROP,7.0,CENTER
+,DROP,7.0,CENTER
+,DROP,7.0,CENTER
+,DROP,7.0,F13
+,DROP,7.0,F13
+,DROP,7.0,F13

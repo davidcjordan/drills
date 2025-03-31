@@ -1,15 +1,5 @@
-"Test all level flat shots"
+"Pro level loop, single ball"
 ""
-730WAV1.WAV
+831Pro_loop.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
-,FLAT,F8,,,2.0,,,,
-,FLAT,B8,,,2.5,,,,
-,FLAT,F8,,,3.0,,,,
-,FLAT,B8,,,3.5,,,,
-,FLAT,F6,,,4.0,,,,
-,FLAT,B6,,,4.5,,,,
-,FLAT,F4,,,5.0,,,,
-,FLAT,B4,,,5.5,,,,
-,FLAT,F2,,,6.0,,,,
-,FLAT,B2,,,6.5,,,,
-,FLAT,CENTER,,,7.0,,,,
+,LOOP,B8,1.0,NOT_SCORED,7.0,,29,38,0

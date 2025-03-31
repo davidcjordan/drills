@@ -1,6 +1,6 @@
-Set the height and speed for LOB throws
+Set the speed for LOBS, "lob_speed"
 
-010CalibrateChip.WAV
+010CalibrateLob.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
 ,LOB,7.0,CENTER,GROUND
 ,LOB,7.0,CENTER,GROUND

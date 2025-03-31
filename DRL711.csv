@@ -1,0 +1,12 @@
+"Test all shot types at Boomer's level: serve,drop,flat,loop,chip,lob,topspin and passing"
+""
+730WAV1.WAV
+,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
+,SERVE,CENTER,,,SAME,,,,
+,DROP,CENTER,,,SAME,,,,
+,FLAT,CENTER,,,SAME,,,,
+,LOOP,CENTER,,,SAME,,,,
+,CHIP,CENTER,,,SAME,,,,
+,LOB,CENTER,,,SAME,,,,
+,TOPSPIN,CENTER,,,SAME,,,,
+,PASS,CENTER,,,SAME,,,,

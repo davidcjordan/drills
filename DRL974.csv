@@ -1,4 +1,4 @@
-Set the height of LOOP throws
+Set the elevation angle of LOOP shots, "loop_ang"
 
 008CalibrateLoop.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD

@@ -1,4 +1,4 @@
-"Test rotary values: F5 to B5"
+"Test rotary ball calibration, F13, F8, F6, F4, F2, CENTER, B2, B4, B6, B8, B13"
 ""
 730WAV1.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN

@@ -1,4 +1,4 @@
-Set the height of CHIP throws
+Set the elevation angle of CHIP shots, "chip_ang"
 
 009CalibrateChip.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD

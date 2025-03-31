@@ -1,4 +1,4 @@
-Set rotary angle so the ball gets thrown down the center line
+Set rotary pot value "center_fast" so the ball gets thrown down the center line
 
 004CalibrateRotary.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE

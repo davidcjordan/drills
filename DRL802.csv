@@ -1,15 +1,5 @@
-"Test all level drop shots"
+"High level chip shot, single ball"
 ""
-730WAV1.WAV
+832High_level_chip.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
-,DROP,B13,,,2.0,,,,
-,DROP,B13,,,2.5,,,,
-,DROP,B13,,,3.0,,,,
-,DROP,B13,,,3.5,,,,
-,DROP,B13,,,4.0,,,,
-,DROP,B13,,,4.5,,,,
-,DROP,B13,,,5.0,,,,
-,DROP,B13,,,5.5,,,,
-,DROP,B13,,,6.0,,,,
-,DROP,B13,,,6.5,,,,
-,DROP,B13,,,7.0,,,,
+,CHIP,CENTER,1.0,NOT_SCORED,5.5,,29,38,0

@@ -1,4 +1,4 @@
-Set the height of SERVE throws
+Set the elevation angle of SERVE throws, "serve_ang"
 
 005CalibrateServe.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE

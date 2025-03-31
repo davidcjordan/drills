@@ -1,0 +1,8 @@
+Set the elevation angle for PASSing shots, "pass_ang"
+
+012CalibratePass.WAV
+,SHOT_TYPE,LEVEL,ROTARY_TYPE
+,PASS,7.0,F13
+,PASS,7.0,B13
+,PASS,7.0,F13
+,PASS,7.0,B13

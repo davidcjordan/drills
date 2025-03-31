@@ -1,9 +1,5 @@
-"Test all level serves"
+"Intermediate topspin tennis ball, single ball"
 ""
-730WAV1.WAV
+830Intermediate_topspin.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
-,SERVE,F2,,,2.0,,,,
-,SERVE,B2,,,2.5,,,,
-,SERVE,F2,,,3.0,,,,
-,SERVE,B2,,,3.5,,,,
-,SERVE,F2,,,4.0,,,,
+,TOPSPIN,F3,1.0,NOT_SCORED,3.5,,29,38,0

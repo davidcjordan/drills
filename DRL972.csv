@@ -1,4 +1,4 @@
-Set the height and speed of DROP throws
+Set the speed of DROP shots, "drop_speed"
 
 006CalibrateDrop.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE
