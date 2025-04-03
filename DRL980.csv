@@ -1,7 +1,0 @@
-Test elevation servoing
-3 balls are thrown high, low, high to measure servo times max up and down
-163CWHL.WAV
-,SHOT_TYPE,ROTARY_TYPE,SPEED,SPIN,ELEVATION
-,CUSTOM,CENTER,35,500,44.0
-,CUSTOM,CENTER,45,500,13.0
-,CUSTOM,CENTER,35,500,44.0
