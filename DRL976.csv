@@ -1,4 +1,4 @@
-Set the speed for LOBS, "lob_speed"
+"Set the speed for LOB shots."
 
 010CalibrateLob.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD

@@ -1,4 +1,4 @@
-Set the elevation angle of FLAT throws, "flat_ang"
+"Set elevation angle for FLAT shots"
 
 007CalibrateFlat.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE

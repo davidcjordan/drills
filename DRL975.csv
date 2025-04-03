@@ -1,4 +1,4 @@
-Set the elevation angle of CHIP shots, "chip_ang"
+"Set elevation angle for CHIP shots."
 
 009CalibrateChip.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD

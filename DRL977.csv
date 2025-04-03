@@ -1,4 +1,4 @@
-Set the elevation angle for TOPSPIN shots, "topspin_ang"
+"Set the elevation angle for TOPSPIN"
 
 011CalibrateTopspin.WAV
 ,SHOT_TYPE,LEVEL,ROTARY_TYPE,SCORING_METHOD
