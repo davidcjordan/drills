@@ -1,7 +1,7 @@
-"Set elevation angle for FLAT shots"
+"Set angle to land just before baseline"
 
 007CalibrateFlat.WAV
-,SHOT_TYPE,LEVEL,ROTARY_TYPE
-,FLAT,7.0,CENTER
-,FLAT,7.0,CENTER
-,FLAT,7.0,CENTER
+,SHOT_TYPE,LEVEL,DELAY,ROTARY_TYPE
+,FLAT,7.0,3.0,CENTER
+,FLAT,7.0,3.0,CENTER
+,FLAT,7.0,3.0,CENTER

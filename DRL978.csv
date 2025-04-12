@@ -1,8 +1,8 @@
-"Set elevation angle for PASS shots"
+"Set angle to just clear net."
 
 012CalibratePass.WAV
-,SHOT_TYPE,LEVEL,ROTARY_TYPE
-,PASS,7.0,F13
-,PASS,7.0,B13
-,PASS,7.0,F13
-,PASS,7.0,B13
+,SHOT_TYPE,LEVEL,DELAY,ROTARY_TYPE
+,PASS,7.0,3.0,F13
+,PASS,7.0,3.0,B13
+,PASS,7.0,3.0,F13
+,PASS,7.0,3.0,B13

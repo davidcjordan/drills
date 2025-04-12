@@ -1,7 +1,7 @@
-"Set elevation angle of SERVE shots"
+"Set to land just before service line"
 
 005CalibrateServe.WAV
-,SHOT_TYPE,LEVEL,ROTARY_TYPE
-,SERVE,3.5,CENTER
-,SERVE,3.5,CENTER
-,SERVE,3.5,CENTER
+,SHOT_TYPE,LEVEL,DELAY,ROTARY_TYPE
+,SERVE,3.5,3.0,CENTER
+,SERVE,3.5,3.0,CENTER
+,SERVE,3.5,3.0,CENTER

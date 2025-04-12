@@ -1,8 +1,8 @@
-"Set the speed of DROP shots."
+"Set the speed to just clear net."
 
 006CalibrateDrop.WAV
-,SHOT_TYPE,LEVEL,ROTARY_TYPE
-,DROP,7.0,F5
-,DROP,7.0,B5
-,DROP,7.0,F5
-,DROP,7.0,B5
+,SHOT_TYPE,LEVEL,DELAY,ROTARY_TYPE
+,DROP,7.0,3.0,F5
+,DROP,7.0,3.0,B5
+,DROP,7.0,3.0,F5
+,DROP,7.0,3.0,B5
