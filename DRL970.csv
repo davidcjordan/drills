@@ -1,4 +1,4 @@
-"Set angle so the shot is centered."
+"Center shot. Minus=left Plus=right"
 
 004CalibrateRotary.WAV
 ,SHOT_TYPE,LEVEL,DELAY,ROTARY_TYPE
