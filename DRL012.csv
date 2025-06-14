@@ -1,16 +1,12 @@
-"Overhead: Groover"
-"To improve overhead accuracy and consistency.  Boomer alternates FH to BH and gives a target "cross" or "line". 12 balls total. "
-730WAV1.WAV
+"FH: 8 balls: This drill throws 8 topspin balls to the deuce court at Boomer's level."
+""
+923Eight_deuce.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
-,LOB,F2,4.0,OVERHEAD,SAME,,,,
-,LOB,B2,4.0,OVERHEAD,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F4,3.5,GROUND,SAME,,,,
+,TOPSPIN,F6,3.5,GROUND,SAME,,,,
+,TOPSPIN,F6,4.0,GROUND,SAME,,,,

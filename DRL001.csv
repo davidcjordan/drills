@@ -1,6 +1,6 @@
-"Groundstroke: Random"
+"Random Groundstroke: 20 random groundstrokes at Boomer's level."
 ""
-248GNDS.WAV
+914Random_ground_intro.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
 ,RAND_GROUND,R4,4.0,GROUND,SAME,,,,
 ,RAND_GROUND,INV,4.0,GROUND,EASY,,,,

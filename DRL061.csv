@@ -1,9 +1,14 @@
-"2-line Doubles poach"
-"#1 receives serve in deuce court. #2 starts at net. Return serve and approach net. #2 poach next ball and cross to deuce court. #1 cross to ad court and takes next ball. BOTH CALL FOR THE LOB! "
-539RUMB.WAV
+"1-line 5 ball net, Each player goes right/left, not scored"
+"Start at service line. Each side gets V, O, V, O, V then circle outside court and get back in line."
+
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
-,SERVE,F8,2.8,NOT_SCORED,SAME,074APPR.WAV,,,
-,PASS,F2,1.8,NOT_SCORED,SAME,499POAC.WAV,,,
-,PASS,B6,1.3,NOT_SCORED,SAME,155CROS.WAV,,,
-,LOB,B6,1.7,NOT_SCORED,SAME,751WHOW.WAV,,,
-,LOB,RANDFH,1.0,NOT_SCORED,EASY,158CRUS.WAV,,,
+,PASS,F6,1.0,NOT_SCORED,SAME,,,,
+,PASS,B6,1.0,NOT_SCORED,SAME,,,,
+,LOB,F6,1.0,NOT_SCORED,EASY,,,,
+,LOB,B6,1.0,NOT_SCORED,EASY,,,,
+,PASS,F8,1.0,NOT_SCORED,SAME,,,,
+,PASS,B8,1.0,NOT_SCORED,SAME,,,,
+,LOB,F6,1.0,NOT_SCORED,EASY,,,,
+,LOB,B6,1.0,NOT_SCORED,EASY,,,,
+,PASS,F13,1.0,NOT_SCORED,SAME,,,,
+,PASS,B13,1.0,NOT_SCORED,SAME,269HERE.WAV,,,
