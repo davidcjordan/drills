@@ -1,4 +1,4 @@
-workout_list = [1,2,3,4,5,6,7,8,9]
+workout_list = [1,2,3]
 
 default_recents_drill_list = [1, 2, 5, 6, 8, 9, 11, 22, 26, 27]
 
@@ -7,7 +7,7 @@ line_drill_dict = {"1-line":[30,31,32,33,34,35,36,38], "2-line":[50,51,52,53,55,
 movement_drill_list = [8,13,22]
 situational_drill_list = [5,6,23]
 
-stroketype_drill_dict = {"ground":[1,2,3,4,5,6,7,8], "volley":[30,31,32,33,34], "net": [20,21,22,23,24,25,26,27,28,29], "lob": [35,36,37,38,39]}
+stroketype_drill_dict = {"ground":[1,2,3,4,5,6,7], "volley":[30,31,32], "net": [20,21,22,23], "lob": [35,36]}
 
 # a1_line_list = [30,31,32,33,34,35,36,38]
 # a2_line_list = [50,51,52,53,54,55,56,57,58,59,60]
