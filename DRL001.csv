@@ -1,5 +1,5 @@
 "Random Groundstroke: 20 balls"
-""
+"Boomer throws 20 random balls at the selected level to practice groundstrokes. Aim deep in the corners."
 914Random_ground_intro.WAV
 ,SHOT_TYPE,ROTARY_TYPE,DELAY,SCORE_METHOD,LEVEL,COMMENT,SPEED,ELEVATION,SPIN
 ,RAND_GROUND,R4,4.0,GROUND,SAME,,,,
