@@ -7,5 +7,5 @@ Various length of moves are made to test servo time of each axis
 ,CUSTOM,CENTER,3.0,40,0,20.0
 ,CUSTOM,F8,3.0,30,0,22.0
 ,CUSTOM,CENTER,3.0,30,0,20.0
-,CUSTOM,B8,3.0,0,21.0
+,CUSTOM,B8,3.0,30,21.0
 ,CUSTOM,CENTER,3.0,35,0,21.0
